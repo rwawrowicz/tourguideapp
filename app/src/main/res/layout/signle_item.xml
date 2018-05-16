@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height"
+    android:id="@+id/single_list_item">
+
+
+    <ImageView
+        android:id="@+id/image"
+        style="@style/ImageStyle"
+        android:src="@drawable/wroclaw_rynek_16na9"/>
+
+    <LinearLayout
+        android:id="@+id/list_item_text"
+        style="@style/WordStyle"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/place_name"
+            style="@style/ItemTitleStyle"
+            android:text="@string/market_square_title"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/place_description"
+            android:text="@string/market_square_description"
+            style="@style/ItemTextStyle"/>
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="poi">Points of Interest</string>
+    <string name="food">Food</string>
+    <string name="nature">Nature &#38; Landscape</string>
+    <string name="buildings">Buildings</string>
+    <string name="app_name">Wroclaw Guide</string>
+    <string name="market_square_title">Market Square</string>
+    <string name="market_square_description">This medieval market square is one of the largest markets in Europe, with two largest city halls in Poland</string>
+    <string name="fountain_title">Wroclaw Multimedia Fountain</string>
+    <string name="fountain_description">One of the biggest musical fountain in the Europe located in the historic Wroclaw exhibition ground</string>
+    <string name="dwarfs_title">Wroclaw’s dwarfs</string>
+    <string name="dwarfs_description"> There are 350+ small figures spread all over the city are symbol of the Orange Alternative (Polish anti-communist movement)</string>
+    <string name="sky_tower_title">Sky Tower</string>
+    <string name="sky_tower_description">The tallest building in Poland in the category of height to roof and category of highest floor</string>
+    <string name="town_hall_title">The Old Town Hall</string>
+    <string name="town_hall_description">The Gothic town hall built from the 13th can be found at the center of the city’s Market Square</string>
+    <string name="pasibus_title">PASIBUS</string>
+    <string name="pasibus_description">One of the best burger in the town located near the Market Square</string>
+    <string name="pierogarnia_title">Pierogarnia Stary Młyn</string>
+    <string name="pierogarnia_description">Great Restaurant at the center of the Market Square serving traditional polish dumplings</string>
+    <string name="zoo_tile">Wrocław Zoological Garden</string>
+    <string name="zoo_description">The oldest zoo in Poland (opened in 1965) with first in Poland Africarium-Oceanarium</string>
+    <string name="island_title">Eastern Islands Group</string>
+    <string name="island_description">Group of islands on the Oder River within the Wroclaw Old Town</string>
+</resources>
